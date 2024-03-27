@@ -13,36 +13,36 @@ The dataset consists of various financial indicators such as cash flow, debt rat
 
 ### Features Include:
 
-A1	net profit / total assets
-A2	total liabilities / total assets
-A3	working capital / total assets
-A4	current assets / short-term liabilities
-A5	[(cash + short-term securities + receivables - short-term liabilities) / (operating expenses - depreciation)] * 365
-A6	retained earnings / total assets
-A7	EBIT / total assets
-A8	book value of equity / total liabilities
-A9	sales / total assets
-A10	equity / total assets
-A11	(gross profit + extraordinary items + financial expenses) / total assets
-A12	gross profit / short-term liabilities
-A13	(gross profit + depreciation) / sales
-A14	(gross profit + interest) / total assets
-A15	(total liabilities * 365) / (gross profit + depreciation)
-A16	(gross profit + depreciation) / total liabilities
-A17	total assets / total liabilities
-A18	gross profit / total assets
-A19	gross profit / sales
-A20	(inventory * 365) / sales
-A21	sales (n) / sales (n-1)
-A22	profit on operating activities / total assets
-A23	net profit / sales
-A24	gross profit (in 3 years) / total assets
-A25	(equity - share capital) / total assets
-A26	(net profit + depreciation) / total liabilities
-A27	profit on operating activities / financial expenses
-A28	working capital / fixed assets
-A29	logarithm of total assets
-A30	(total liabilities - cash) / sales
+- A1	net profit / total assets
+- A2	total liabilities / total assets
+- A3	working capital / total assets
+- A4	current assets / short-term liabilities
+- A5	[(cash + short-term securities + receivables - short-term liabilities) / (operating expenses - depreciation)] * 365
+- A6	retained earnings / total assets
+- A7	EBIT / total assets
+- A8	book value of equity / total liabilities
+- A9	sales / total assets
+- A10	equity / total assets
+- A11	(gross profit + extraordinary items + financial expenses) / total assets
+- A12	gross profit / short-term liabilities
+- A13	(gross profit + depreciation) / sales
+- A14	(gross profit + interest) / total assets
+- A15	(total liabilities * 365) / (gross profit + depreciation)
+- A16	(gross profit + depreciation) / total liabilities
+- A17	total assets / total liabilities
+- A18	gross profit / total assets
+- A19	gross profit / sales
+- A20	(inventory * 365) / sales
+- A21	sales (n) / sales (n-1)
+- A22	profit on operating activities / total assets
+- A23	net profit / sales
+- A24	gross profit (in 3 years) / total assets
+- A25	(equity - share capital) / total assets
+- A26	(net profit + depreciation) / total liabilities
+- A27	profit on operating activities / financial expenses
+- A28	working capital / fixed assets
+- A29	logarithm of total assets
+- A30	(total liabilities - cash) / sales
 A31	(gross profit + interest) / sales
 A32	(current liabilities * 365) / cost of products sold
 A33	operating expenses / short-term liabilities
