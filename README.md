@@ -43,40 +43,40 @@ The dataset consists of various financial indicators such as cash flow, debt rat
 - A28	working capital / fixed assets
 - A29	logarithm of total assets
 - A30	(total liabilities - cash) / sales
-A31	(gross profit + interest) / sales
-A32	(current liabilities * 365) / cost of products sold
-A33	operating expenses / short-term liabilities
-A34	operating expenses / total liabilities
-A35	profit on sales / total assets
-A36	total sales / total assets
-A37	(current assets - inventories) / long-term liabilities
-A38	constant capital / total assets
-A39	profit on sales / sales
-A40	(current assets - inventory - receivables) / short-term liabilities
-A41	total liabilities / ((profit on operating activities + depreciation) * (12/365))
-A42	profit on operating activities / sales
-A43	rotation receivables + inventory turnover in days
-A44	(receivables * 365) / sales
-A45	net profit / inventory
-A46	(current assets - inventory) / short-term liabilities
-A47	(inventory * 365) / cost of products sold
-A48	EBITDA (profit on operating activities - depreciation) / total assets
-A49	EBITDA (profit on operating activities - depreciation) / sales
-A50	current assets / total liabilities
-A51	short-term liabilities / total assets
-A52	((short-term liabilities * 365) / cost of products sold)
-A53	equity / fixed assets
-A54	constant capital / fixed assets
-A55	working capital
-A56	(sales - cost of products sold) / sales
-A57	(current assets - inventory - short-term liabilities) / (sales - gross profit - depreciation)
-A58	total costs /total sales
-A59	long-term liabilities / equity
-A60	sales / inventory
-A61	sales / receivables
-A62	(short-term liabilities *365) / sales
-A63	sales / short-term liabilities
-A64	sales / fixed assets
+- A31	(gross profit + interest) / sales
+- A32	(current liabilities * 365) / cost of products sold
+- A33	operating expenses / short-term liabilities
+- A34	operating expenses / total liabilities
+- A35	profit on sales / total assets
+- A36	total sales / total assets
+- A37	(current assets - inventories) / long-term liabilities
+- A38	constant capital / total assets
+- A39	profit on sales / sales
+- A40	(current assets - inventory - receivables) / short-term liabilities
+- A41	total liabilities / ((profit on operating activities + depreciation) * (12/365))
+- A42	profit on operating activities / sales
+- A43	rotation receivables + inventory turnover in days
+- A44	(receivables * 365) / sales
+- A45	net profit / inventory
+- A46	(current assets - inventory) / short-term liabilities
+- A47	(inventory * 365) / cost of products sold
+- A48	EBITDA (profit on operating activities - depreciation) / total assets
+- A49	EBITDA (profit on operating activities - depreciation) / sales
+- A50	current assets / total liabilities
+- A51	short-term liabilities / total assets
+- A52	((short-term liabilities * 365) / cost of products sold)
+- A53	equity / fixed assets
+- A54	constant capital / fixed assets
+- A55	working capital
+- A56	(sales - cost of products sold) / sales
+- A57	(current assets - inventory - short-term liabilities) / (sales - gross profit - depreciation)
+- A58	total costs /total sales
+- A59	long-term liabilities / equity
+- A60	sales / inventory
+- A61	sales / receivables
+- A62	(short-term liabilities *365) / sales
+- A63	sales / short-term liabilities
+- A64	sales / fixed assets
 
 
 
