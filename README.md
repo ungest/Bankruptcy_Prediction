@@ -1,4 +1,3 @@
-
 # Bankruptcy Prediction Ensemble Model
 
 ## Project Overview
