@@ -139,6 +139,8 @@ Here is the main structure of our project repository:
 
 - **notebooks/**: Here you can find Jupyter notebooks with data exploration, model development, and testing code.
 
+- **Visualizations/**: Here you can find charts and plots explaining different processes in the model building.
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
